@@ -1,6 +1,6 @@
 # 🌾 Crop Yield Prediction Using Machine Learning
 
-![Crop Yield Prediction](assets/screenshot.png)
+![Crop Yield Prediction](Screenshot 2025-02-24 160928.png)
 
 This project predicts crop yield based on various environmental and soil parameters using **Machine Learning** models.
 
